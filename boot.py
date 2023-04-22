@@ -7,8 +7,8 @@ sensor1_pin = machine.Pin(34, machine.Pin.IN, machine.Pin.PULL_UP)
 sensor2_pin = machine.Pin(35, machine.Pin.IN, machine.Pin.PULL_UP)
 
 # Configuración de conexión WiFi
-wifi_ssid = 'red'
-wifi_password = 'password'
+wifi_ssid = 'VS CNT '
+wifi_password = '1802589778'
 
 # Configuración de conexión MQTT
 mqtt_server = 'broker.emqx.io'
